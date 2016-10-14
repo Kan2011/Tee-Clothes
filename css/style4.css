@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Ubuntu-Regular';
-    src:url(../fonts/Ubuntu-Regular.ttf) format('truetype');
+    font-family: 'Roboto-MediumItalic';
+    src:url(../fonts/Roboto-MediumItalic.ttf) format('truetype');
 }
 @font-face{
-	font-family:'Oxygen-Regular';
-	src:url(../fonts/Oxygen-Regular.ttf) format('truetype');
+	font-family:'Roboto-MediumItalic';
+	src:url(../fonts/Roboto-MediumItalic.ttf) format('truetype');
 }
 .rw-wrapper{
 	position: relative;
@@ -23,7 +23,7 @@
 	display: block;
 	text-indent: 5px;
 	font-size: 3em;
-	font-family: 'Ubuntu-Regular';
+	font-family: 'Roboto-MediumItalic';
 }
 .rw-words{
 	width: 100%;
@@ -42,7 +42,7 @@
 	overflow: hidden;
 }
 .rw-words-1 span{
-font-family:'Oxygen-Regular';
+font-family:'Roboto-MediumItalic';
 	font-size: 1.2em;
 	-webkit-animation: rotateWordsFirst 18s linear infinite 0s;
 	-moz-animation: rotateWordsFirst 18s linear infinite 0s;
@@ -56,7 +56,7 @@ font-family:'Oxygen-Regular';
 	font-style: italic;
 	text-indent: 5px;
 	color: #F67777;	
-	font-family: 'Ubuntu-Regular';
+	font-family: 'Roboto-MediumItalic';
 	-webkit-animation: rotateWordsSecond 18s ease-in infinite 0s;
 	-moz-animation: rotateWordsSecond 18s ease-in infinite 0s;
 	-o-animation: rotateWordsSecond 18s ease-in infinite 0s;
